@@ -11,6 +11,8 @@ In the second solution I solved the problem using a **for loop**, the **push()**
 ### Check for Palindrome
 Meet for the first time the "lovely" **regEx**. Use it with **replace()** and **toLowerCase()**. **Reverse the string** as you learned in the first algorithm and than with **strict equality operator ===** check if the provided string it is or not a palindrome.
 
+### Find Longest Word in a String
+Learn and solve this awesome algorithm with **split()**, **map()** and **sort()**. Understand why being able to work with arrays will be your most powerful weapon as developer. 
 
 
 
