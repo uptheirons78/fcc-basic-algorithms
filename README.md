@@ -14,5 +14,6 @@ Meet for the first time the "lovely" **regEx**. Use it with **replace()** and **
 ### Find Longest Word in a String
 Learn and solve this awesome algorithm with **split()**, **map()** and **sort()**. Understand why being able to work with arrays will be your most powerful weapon as developer. 
 
-
+### Title Case a Sentence
+To solve this one use **split()**, **toLowerCase()**, **toUpperCase()**, **map()**, **replace()**, **charAt()** and **join()**. 
 
