@@ -19,6 +19,19 @@ function titleCase(str) {
     });
     return mappedArr.join(' ');//last, we need to join() the array to get back our sentence
 }
+
+//well written function
+function titleCaseV2(str) {
+    const arr = str.toLowerCase().split(' ');
+    const mappedArr = arr.map((item) => {
+        return item.replace(item.charAt(0), item.charAt(0).toUpperCase());
+    });
+    return mappedArr.join(' ');
+}
   
 const mySentence = titleCase("I'm a little tea pot");
+const darthSentence = titleCase("Luke, I'm your father");
+const yodaSentence = titleCase("do or do not, there is no try!");
 console.log(mySentence);
+console.log(darthSentence);
+console.log(yodaSentence);
