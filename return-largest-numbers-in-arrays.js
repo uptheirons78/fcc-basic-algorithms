@@ -1,4 +1,4 @@
-//FFC gives us this funny problem to solve
+//FCC gives us this funny problem to solve
 //We have an array that contains four arrays of numbers and
 //we must write a function able to return us an array of the largest numbers of those arrays
 //this is the array FCC gives us: [[4, 5, 1, 3], [13, 27, 18, 26], [32, 35, 37, 39], [1000, 1001, 857, 1]];
